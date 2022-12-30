@@ -257,9 +257,10 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../assets/img/header_background.jpeg);
+    height: 100%;
+    background-image: url(../images/welding.jpeg);
     height: auto;
-    background-size: 100%;
+    background-size: cover;
     padding: 0px 0px 20px 0px;
 }
 
